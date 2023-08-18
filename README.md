@@ -1,2 +1,2 @@
 # Calculator
-[Demo] https://malenkoak.github.io/Calculator/
+https://malenkoak.github.io/Calculator/
